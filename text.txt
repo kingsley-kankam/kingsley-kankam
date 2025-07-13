@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Happy Birthday, Benedicta! 🎉</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #ffe6f0, #fff9e6);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      text-align: center;
+      padding: 40px;
+      color: #ff3366;
+    }
+    h1 {
+      font-size: 3em;
+      margin-bottom: 0.2em;
+    }
+    h2 {
+      font-size: 2em;
+      margin-top: 1em;
+      color: #ff6699;
+    }
+    p {
+      font-size: 1.3em;
+      margin: 20px auto;
+      max-width: 600px;
+      line-height: 1.4;
+    }
+    .heart {
+      font-size: 3em;
+      animation: beat 1s infinite;
+    }
+    @keyframes beat {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.3); }
+    }
+    .cards {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-top: 30px;
+      gap: 20px;
+    }
+    .card {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      width: 250px;
+      padding: 20px;
+      text-align: left;
+    }
+    .card img {
+      width: 100%;
+      border-radius: 8px;
+      margin-bottom: 12px;
+    }
+    .footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎂 Happy Birthday, Benedicta! 🎂</h1>
+  <p>My dearest Benedicta,</p>
+  <p>Today we celebrate the incredible person you are—your kindness, your smile that brightens my days, and the way your laugh is pure joy. You make every moment we share unforgettable.</p>
+  <p>Here’s to the girl who has my heart in the sweetest way—I cherish you today and always.</p>
+  <p class="heart">❤️❤️❤️</p>
+
+  <div class="cards">
+    <div class="card">
+      <img src="https://via.placeholder.com/250x150.png?text=Us+at+the+Beach" alt="Beach memory"/>
+      <p>Remember our sunny day at the beach? The sand, the waves, just you and me—perfect in every way.</p>
+    </div>
+    <div class="card">
+      <img src="https://via.placeholder.com/250x150.png?text=Dinner+Date" alt="Dinner Date"/>
+      <p>Every dinner we share—especially when you laugh at my silly jokes—makes me fall in love with you all over again.</p>
+    </div>
+    <div class="card">
+      <img src="https://via.placeholder.com/250x150.png?text=Movie+Night" alt="Movie Night"/>
+      <p>Our cozy movie nights, cuddle sessions, and popcorn fights—those little moments mean everything with you.</p>
+    </div>
+  </div>
+
+  <h2>More Love Notes</h2>
+  <p>🌟 You bring so much light and love into my life.<br>
+     🦄 You are uniquely beautiful—inside and out.<br>
+     🥂 I can’t wait to make more memories with you this coming year.</p>
+
+  <div class="footer">
+    <p>With all my love, from your Nanasei 💘</p>
+    <p>📅 July 13, 2025</p>
+  </div>
+</body>
+</html>
